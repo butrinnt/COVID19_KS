@@ -1,12 +1,17 @@
-[
+{
+  "name":
+ [
   {
-      "country":"Kosovo",
-  "updatedAt":"2020-07-22 04:34:42",
-  "stats":{
-      "confirmed":5877,
-      "deaths":139,
-      "recovered":3069
-      
+ "id":1,"country":"Kosovo",
+}
+]
+
+  "stats":[
+ {
+      "confirmed":"5877",
+      "deaths":"139",
+      "recovered":"3069"   
   }
-  }
-  ]
+]
+ 
+}
