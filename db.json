@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "Country": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Kosova"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "Stats": {
+    "Confirmed": "5877",
+    "Deaths": "139",
+    "Recovered" : "3069"
+    
   }
 }
