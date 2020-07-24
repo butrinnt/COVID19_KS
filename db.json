@@ -6,9 +6,9 @@
     }
   ],
   "Stats": {
-    "Confirmed": "69",
-    "Deaths": "139",
-    "Recovered" : "3069"
-    
+    "Confirmed": "6680",
+    "Deaths": "164",
+    "Recovered" : "3614",
+    "Active" : "2902"
   }
 }
