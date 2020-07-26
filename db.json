@@ -6,15 +6,15 @@
     }
   ],
   "Total": {
-    "Confirmed": 6680,
-    "Deaths": 164,
-    "Recovered" : 614,
-    "Active" : 2902
+    "Confirmed": "6680",
+    "Deaths": "164",
+    "Recovered" : "614",
+    "Active" : "2902"
   }
   ,"Sot": {
-    "Confirmed1": 220,
-    "Deaths1": 1,
-    "Recovered1" : 150
+    "Confirmed1": "220",
+    "Deaths1": "1",
+    "Recovered1" : "150"
     
 }
 }
