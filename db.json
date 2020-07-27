@@ -6,13 +6,13 @@
     }
   ],
   "Total": {
-    "Confirmed": "6680",
-    "Deaths": "164",
-    "Recovered" : "3614",
-    "Active" : "2902", 
-    "Confirmed1": "230",
-    "Deaths1": "7",
-    "Recovered1" : "100"
+    "Confirmed": "1",
+    "Deaths": "2",
+    "Recovered" : "3",
+    "Active" : "4", 
+    "Confirmed1": "5",
+    "Deaths1": "6",
+    "Recovered1" : "7"
     
    
   }
